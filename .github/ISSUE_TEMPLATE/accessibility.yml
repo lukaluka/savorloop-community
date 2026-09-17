@@ -1,0 +1,118 @@
+{
+  "name": "Accessibility report",
+  "description": "Report a barrier involving text, focus, labels, contrast, or interaction.",
+  "title": "[Accessibility] ",
+  "labels": [
+    "accessibility",
+    "needs-triage"
+  ],
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "This ticket is PUBLIC. Use fictional examples. Do not include health history, body measurements, personal allergy profiles, exports, payment information, passwords, or complete logs. For security flaws or unintended data exposure, stop and use [private vulnerability reporting](https://github.com/lukaluka/savorloop-community/security/advisories/new). SavorLoop is currently in development; see the availability guide."
+      }
+    },
+    {
+      "type": "checkboxes",
+      "id": "privacy",
+      "attributes": {
+        "label": "Before submitting",
+        "options": [
+          {
+            "label": "I searched existing issues and checked the relevant guide.",
+            "required": true
+          },
+          {
+            "label": "I understand this issue is public and have removed sensitive and personal information.",
+            "required": true
+          },
+          {
+            "label": "This is not a private security vulnerability report.",
+            "required": true
+          }
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "version",
+      "attributes": {
+        "label": "App / build version",
+        "description": "If unavailable, say unknown. Food-library and app versions are different."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "device",
+      "attributes": {
+        "label": "Device and operating system",
+        "description": "Example: iPhone model and iOS version; never a serial number or device identifier."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "screen",
+      "attributes": {
+        "label": "Screen or control"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "settings",
+      "attributes": {
+        "label": "Relevant accessibility settings",
+        "description": "For example: larger text or VoiceOver. No diagnosis is needed."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "steps",
+      "attributes": {
+        "label": "Steps and observed barrier"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "expected",
+      "attributes": {
+        "label": "Expected accessible behavior"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "workaround",
+      "attributes": {
+        "label": "Workaround or redacted example",
+        "description": "Optional. Do not include identifying details."
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ],
+  "assignees": [
+    "lukaluka"
+  ]
+}

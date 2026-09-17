@@ -1,0 +1,15 @@
+{
+  "blank_issues_enabled": false,
+  "contact_links": [
+    {
+      "name": "Read the user guides",
+      "url": "https://github.com/lukaluka/savorloop-community/blob/main/README.md",
+      "about": "Start with guides, troubleshooting, frequently asked questions, and availability."
+    },
+    {
+      "name": "Report a security vulnerability privately",
+      "url": "https://github.com/lukaluka/savorloop-community/security/advisories/new",
+      "about": "Do not put vulnerabilities or sensitive information in public tickets."
+    }
+  ]
+}

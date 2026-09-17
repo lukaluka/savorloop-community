@@ -1,0 +1,110 @@
+{
+  "name": "Food data or restriction-behavior report",
+  "description": "Report a reference record, unit, quantity, or constraint behavior that looks wrong.",
+  "title": "[Food data] ",
+  "labels": [
+    "food-data",
+    "needs-triage"
+  ],
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "This ticket is PUBLIC. Use fictional examples. Do not include health history, body measurements, personal allergy profiles, exports, payment information, passwords, or complete logs. For security flaws or unintended data exposure, stop and use [private vulnerability reporting](https://github.com/lukaluka/savorloop-community/security/advisories/new). SavorLoop is currently in development; see the availability guide."
+      }
+    },
+    {
+      "type": "checkboxes",
+      "id": "privacy",
+      "attributes": {
+        "label": "Before submitting",
+        "options": [
+          {
+            "label": "I searched existing issues and checked the relevant guide.",
+            "required": true
+          },
+          {
+            "label": "I understand this issue is public and have removed sensitive and personal information.",
+            "required": true
+          },
+          {
+            "label": "This is not a private security vulnerability report.",
+            "required": true
+          }
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "version",
+      "attributes": {
+        "label": "App / build version",
+        "description": "If unavailable, say unknown. Food-library and app versions are different."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "source",
+      "attributes": {
+        "label": "Source / recipe / record identifier",
+        "description": "Use public food identifiers or a recipe title, not your personal profile."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "data-version",
+      "attributes": {
+        "label": "Catalog or library version",
+        "description": "Say unknown if unavailable."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "observed",
+      "attributes": {
+        "label": "Observed value or behavior",
+        "description": "For nutrients include field name, value, unit, quantity basis, and food state. For restrictions use fictional reproduction steps."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "expected",
+      "attributes": {
+        "label": "Expected value or behavior and supporting reference",
+        "description": "Link a public publisher record when possible. Do not request personal medical advice."
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "scope",
+      "attributes": {
+        "label": "Does this concern a current planning recommendation?",
+        "description": "Explain which screen showed it. Avoid personal health or allergy history."
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ],
+  "assignees": [
+    "lukaluka"
+  ]
+}
