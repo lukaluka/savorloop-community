@@ -47,3 +47,7 @@ The optional weekly budget is a preference. Current local prices, package sizes,
 Under **Plan around a busy day**, the current flow offers dinner-out choices for the seven plan days. Nutrition for those meals is unknown and excluded from planned totals. Recording **Ate out** later is a behavior entry, not a restaurant calorie calculation.
 
 If the resulting plan cannot be created, read [troubleshooting](troubleshooting.md) and report the general constraint combination without personal details.
+
+## A taste profile that develops over time
+
+**You → Your Taste** starts with what you told the app and develops from feedback across different meals. Open **Why this sounds like you** to inspect and correct learned patterns. Saved food preferences take priority over inferred patterns; edit those through **Edit preferences**. Your allergies, restrictions, and exclusions remain firm boundaries. See [Your Taste and feedback](feedback.md#your-taste) for the controls and how learning works.

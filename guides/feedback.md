@@ -42,3 +42,11 @@ Feedback is saved as history. Reversing an exclusion changes the current prefere
 In **You**, the learning section shows saved meal ratings and visible preference signals. You may see explanations such as leaning toward a repeat, less often next time, or still learning. Treat those as a summary of observed preferences, not as a promise of a particular future menu.
 
 If an excluded recipe returns, verify whether you explicitly allowed it again and whether you are viewing historical or current plan content. If the active recommendation still appears wrong, report the recipe name, the app build, and a fictional sequence of actions. Do not attach your full feedback export.
+
+## Your Taste
+
+In the development build, **You → Your Taste** describes food patterns in two short sentences. It begins with saved preferences and refines as you rate, eat, and choose meals. Different recipes must support a pattern; repeatedly rating one meal does not establish a cuisine or ingredient preference. Ratings count more than eaten or swapped meals. Recent feedback carries more weight, and skipped meals do not imply a dislike. Feedback about effort, cost, portions, repetition, or scheduling is kept separate from flavor preferences.
+
+Tap **Why this sounds like you** to see supporting meals. For a learned pattern, **Adjust this pattern** offers **More of this**, **Less of this**, or **Don’t use this pattern**. You can later select **Let SavorLoop learn again**. For a preference you entered during setup, use **Edit saved preferences**. Corrections influence future plans; they do not replace the current week or remove safety restrictions. A preference changes ranking, not guaranteed meal selection.
+
+The summary and learning run on your iPhone without a remote AI service. Corrections are saved with your profile, included in local data exports, and removed by **Delete all local data**. Meal history remains intact when you correct a pattern. These descriptions reflect observed food preferences, not diagnoses or dietary identities.

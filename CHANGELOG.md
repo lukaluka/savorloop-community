@@ -2,6 +2,12 @@
 
 This log describes public support documentation. It is not a record of production app releases unless an entry explicitly identifies a released build.
 
+## 2026-09-26 — Your Taste development feature
+
+- Documented the evolving on-device taste summary, supporting meal evidence, and controls for correcting or resuming learning.
+- Clarified how feedback differs from meal behavior, how corrections affect future plans, and how local export/deletion applies.
+- This update describes development functionality and does not announce a production release.
+
 ## 2026-09-17 — Community support hub opened
 
 - Published guides for first setup, preferences and firm restrictions, daily and weekly plans, meal swaps, feedback and exclusions, groceries, prep, the food library, local data controls, accessibility, reminders, and offline use.
