@@ -22,3 +22,14 @@ This log describes public support documentation. It is not a record of productio
 - Established publication of reviewed support-document changes when relevant project updates are completed.
 
 The guides describe the current development implementation. No public App Store/TestFlight release, purchase activation, or clinical validation is announced by this documentation update.
+
+## Optional meal routine — development update, September 26, 2026
+
+- Describe your usual meals, review the recognized choices, and edit breakfast/lunch/dinner preferences locally.
+- Independently enable use for future weekly plans and meal-swap recommendations; either, both, neither, or skipping are supported.
+- Routine edits keep the current week. Unrecognized text and missing recipe matches are explained. This is a development update, not an announcement of a new public release.
+
+## 2026-09-26 — Combined development build
+
+- Clarified where to enter custom cuisines and how to correct an accidental strict restriction.
+- Meal routine, Your Taste, and measurement preferences are included together in the development build. No production release is announced.

@@ -58,3 +58,17 @@ If the resulting plan cannot be created, read [troubleshooting](troubleshooting.
 Choose **Metric** or **Imperial** during target setup, or open **You → Measurements** to switch at any time. Metric uses centimeters and kilograms for body measurements, and grams/kilograms for food. Imperial uses total inches for height (5 feet 10 inches = 70 inches), pounds for body weight, and ounces/pounds for food weights.
 
 The choice is saved on your iPhone and included in your data export. Switching from You updates displayed quantities without rebuilding your week or resetting checked groceries and prep tasks. Existing profiles start in Metric. Quantities are rounded for display only; nutrition calculations stay unchanged. Nutrition labels and food-source nutrient bases retain grams/milligrams and the source’s stated basis. Ounces here are weight, not fluid ounces; cups and spoons are not inferred from weight.
+## Tell us how you like to eat (optional)
+
+Open **You → How you like to eat**, or expand the optional section on the last setup page. Write a short blurb, choose **Review my blurb**, then correct the breakfast, lunch and dinner choices before saving. You can also choose a routine directly or skip it entirely.
+
+The current offline English phrase recognizer supports smoothies, preparing ahead/reheating, simple protein-carb-vegetable meals, quick meals and no-cook meals. It does not understand every sentence. Only the displayed choices affect suggestions; unrecognized text stays saved as your wording. Review again after changing the text, or adjust the choices yourself. No allergies or nutrition targets are inferred from this field.
+
+Two independent switches start off: **Personalize my weekly meal plans** and **Personalize my recipe recommendations**. Choose either, both or neither. Recommendations currently means the alternatives shown when swapping a meal. With both off, this saved routine has no influence; the app's existing meal feedback and saved food preferences still work as before.
+
+Saving here keeps your current week. Plan changes apply when you generate another plan; recommendation changes apply when you next view meal alternatives. Cancel discards unsaved edits. **Clear my blurb and routine**, followed by **Save**, removes the text and choices and turns both switches off. Your routine stays on your iPhone and is included in the existing export and local deletion controls.
+
+Routine choices are gentle preferences, not guarantees. The app shows a notice when no eligible recipe matches a choice. The current planning library has no smoothie recipes; this preference can be saved but does not create a smoothie recipe. Preparing ahead favors suitable existing cooking templates; it does not create a batch-cooking schedule or certify storage/reheating safety. Allergies, restrictions, equipment limits and exclusions always apply.
+### Cuisine preferences
+
+Use **Other cuisines** to save additional cuisines, separated by commas. These tastes do not prevent planning if matching recipes are not available yet. Keep allergies and strict restrictions in their separate field. If you accidentally entered a cuisine as a restriction, clear that field and enter it under Other cuisines to continue.
