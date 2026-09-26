@@ -16,7 +16,7 @@ The app saves the checkoff state locally. If an item unexpectedly becomes unchec
 
 ## Interpret quantities correctly
 
-The list describes exact plan usage in grams. It is not a supermarket cart, a package-size calculator, or a price quote. You may need to buy more than the displayed amount because packages come in fixed sizes.
+The list shows plan usage in your selected Metric (g/kg) or Imperial (oz/lb) units, rounded for display. Change this in **You → Measurements**; switching units preserves your plan and checkoffs. It is not a supermarket cart, a package-size calculator, or a price quote. You may need to buy more than the displayed amount because packages come in fixed sizes.
 
 Read the food state. A cooked ingredient is listed as cooked: use ready-cooked food or measure the amount after cooking, as appropriate to the recipe. The app does not automatically translate every cooked weight into a raw shopping quantity.
 

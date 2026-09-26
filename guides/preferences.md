@@ -51,3 +51,10 @@ If the resulting plan cannot be created, read [troubleshooting](troubleshooting.
 ## A taste profile that develops over time
 
 **You → Your Taste** starts with what you told the app and develops from feedback across different meals. Open **Why this sounds like you** to inspect and correct learned patterns. Saved food preferences take priority over inferred patterns; edit those through **Edit preferences**. Your allergies, restrictions, and exclusions remain firm boundaries. See [Your Taste and feedback](feedback.md#your-taste) for the controls and how learning works.
+
+
+## Measurement units
+
+Choose **Metric** or **Imperial** during target setup, or open **You → Measurements** to switch at any time. Metric uses centimeters and kilograms for body measurements, and grams/kilograms for food. Imperial uses total inches for height (5 feet 10 inches = 70 inches), pounds for body weight, and ounces/pounds for food weights.
+
+The choice is saved on your iPhone and included in your data export. Switching from You updates displayed quantities without rebuilding your week or resetting checked groceries and prep tasks. Existing profiles start in Metric. Quantities are rounded for display only; nutrition calculations stay unchanged. Nutrition labels and food-source nutrient bases retain grams/milligrams and the source’s stated basis. Ounces here are weight, not fluid ounces; cups and spoons are not inferred from weight.

@@ -2,6 +2,11 @@
 
 This log describes public support documentation. It is not a record of production app releases unless an entry explicitly identifies a released build.
 
+## 2026-09-26 — Measurement preferences
+
+- Documented the saved Metric/Imperial option in setup and You, body-entry units, food-weight displays, and preservation of nutrition calculations and current plans.
+- Development functionality; no production release is announced.
+
 ## 2026-09-26 — Your Taste development feature
 
 - Documented the evolving on-device taste summary, supporting meal evidence, and controls for correcting or resuming learning.
