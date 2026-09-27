@@ -72,3 +72,8 @@ Routine choices are gentle preferences, not guarantees. The app shows a notice w
 ### Cuisine preferences
 
 Use **Other cuisines** to save additional cuisines, separated by commas. These tastes do not prevent planning if matching recipes are not available yet. Keep allergies and strict restrictions in their separate field. If you accidentally entered a cuisine as a restriction, clear that field and enter it under Other cuisines to continue.
+
+
+### Explore your taste
+
+In **You**, choose **Explore your taste** on the green Your Taste card. Each pattern shows whether it comes from saved preferences, meal feedback, or your own adjustment. Expand **Meals behind this pattern** to see the supporting meals. Use **Adjust this pattern** to ask for more, less, ignore it, or resume learning.

@@ -33,3 +33,8 @@ The guides describe the current development implementation. No public App Store/
 
 - Clarified where to enter custom cuisines and how to correct an accidental strict restriction.
 - Meal routine, Your Taste, and measurement preferences are included together in the development build. No production release is announced.
+
+## 2026-09-26 — Your Taste design refinement
+
+- Documented the new Explore your taste entry, clearer pattern states, expandable supporting meals, and guidance for users whose taste profile is still developing.
+- This is a development update; no production release is announced.
