@@ -43,3 +43,9 @@ The guides describe the current development implementation. No public App Store/
 - Added guidance for four smoothie breakfasts, including two with plant ingredients, their blender requirement, and how to use them in future plans or breakfast swaps.
 - Recipe nutrition, groceries and ordinary meal feedback use the existing app flows. Current plans remain available.
 - Development functionality; no production release is announced.
+
+## 2026-09-27 — Appearance and routine clarity (development)
+
+- Added system Light/Dark appearance and a decorative smoothie illustration.
+- Made unmatched meal-routine explanations easier to notice with a warning icon and readable text.
+- No production release is announced. Allergy exclusions and saved history behavior are unchanged.

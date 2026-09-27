@@ -77,3 +77,9 @@ Use **Other cuisines** to save additional cuisines, separated by commas. These t
 ### Explore your taste
 
 In **You**, choose **Explore your taste** on the green Your Taste card. Each pattern shows whether it comes from saved preferences, meal feedback, or your own adjustment. Expand **Meals behind this pattern** to see the supporting meals. Use **Adjust this pattern** to ask for more, less, ignore it, or resume learning.
+
+## Appearance
+
+In the current development build, SavorLoop follows your iPhone’s Light or Dark appearance. Change this in iPhone Settings → Display & Brightness. Text size continues to follow your accessibility settings. Smoothie details use a decorative glass illustration; illustrations do not show exact ingredients or portions. Check the recipe’s ingredient list and your safety settings.
+
+Meal-routine choices without an eligible match show a warning icon and an explanation. The preference stays saved while the app uses other eligible meals; it never overrides an allergy or exclusion.
