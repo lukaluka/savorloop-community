@@ -38,3 +38,8 @@ The guides describe the current development implementation. No public App Store/
 
 - Documented the new Explore your taste entry, clearer pattern states, expandable supporting meals, and guidance for users whose taste profile is still developing.
 - This is a development update; no production release is announced.
+## 2026-09-26 — Smoothie breakfast options
+
+- Added guidance for four smoothie breakfasts, including two with plant ingredients, their blender requirement, and how to use them in future plans or breakfast swaps.
+- Recipe nutrition, groceries and ordinary meal feedback use the existing app flows. Current plans remain available.
+- Development functionality; no production release is announced.
