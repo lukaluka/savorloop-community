@@ -47,3 +47,11 @@ Changing preferences through **You** also offers **Save and rebuild plan**. A **
 ## When a plan is unavailable after a change
 
 The app rechecks a restored plan against current eligibility, restrictions, and installed reference data. If an older active plan no longer qualifies, it may be deactivated while its historical record is retained. Read the message and create a fresh plan using supported preferences. Do not delete your local data as an initial troubleshooting step.
+
+## Recipe collection in development
+
+The expanded development collection contains 250 recipes. Availability in your installed version may differ; this is not a release announcement. Your equipment, cooking-time limit, allergies and exclusions determine which meals can appear. Recipes shared by lunch and dinner count once, and portion changes do not count as additional recipes.
+
+Recipes listing cooked grains or legumes use already-cooked weights. Their time estimates assume those ingredients are prepared and safely refrigerated or purchased ready-cooked; cooking them from dry adds time. Follow the ingredient state and preparation instructions.
+
+A food-reference version update can ask you to rebuild the active week. Existing history is retained; the update does not rewrite old meal quantities.
