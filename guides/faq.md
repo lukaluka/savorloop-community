@@ -77,3 +77,7 @@ Maintainers triage tickets as capacity allows. There is no published response-ti
 ### Is the app open source because this repository is public?
 
 No. This is a public documentation and support repository. It does not contain the private application code or grant a license to it. Read [content and reuse](../NOTICE.md).
+
+
+### How many recipes are in development?
+The current development catalog contains 252 recipes, including two new no-cook compositions. This count excludes food-library records and portion variants. Availability in your installed release can differ. Recipes have engineering checks; kitchen testing and professional nutrition review are separate and are not claimed. Check all ingredient labels and your necessary exclusions; no app can certify kitchen cross-contact.

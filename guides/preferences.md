@@ -83,3 +83,5 @@ In **You**, choose **Explore your taste** on the green Your Taste card. Each pat
 In the current development build, SavorLoop follows your iPhone’s Light or Dark appearance. Change this in iPhone Settings → Display & Brightness. Text size continues to follow your accessibility settings. Smoothie details use a decorative glass illustration; illustrations do not show exact ingredients or portions. Check the recipe’s ingredient list and your safety settings.
 
 Meal-routine choices without an eligible match show a warning icon and an explanation. The preference stays saved while the app uses other eligible meals; it never overrides an allergy or exclusion.
+
+At accessibility text sizes, the current development build stacks header status below the brand and gives the Today meal context more space. Text continues to use your system size; additional scrolling can be needed. Installed-release availability may differ.
