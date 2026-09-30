@@ -49,3 +49,8 @@ The guides describe the current development implementation. No public App Store/
 - Added system Light/Dark appearance and a decorative smoothie illustration.
 - Made unmatched meal-routine explanations easier to notice with a warning icon and readable text.
 - No production release is announced. Allergy exclusions and saved history behavior are unchanged.
+
+
+## September 30, 2026 — Development membership guidance
+
+Documented Free daily planning, recipe browsing, Plus weekly planning and continued access to saved plans, groceries/prep and data controls. Production purchases remain disabled; no release is announced. Purchase restoration and personal-data restoration are distinct.

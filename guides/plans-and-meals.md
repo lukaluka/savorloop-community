@@ -55,3 +55,14 @@ The expanded development collection contains 250 recipes. Availability in your i
 Recipes listing cooked grains or legumes use already-cooked weights. Their time estimates assume those ingredients are prepared and safely refrigerated or purchased ready-cooked; cooking them from dry adds time. Follow the ingredient state and preparation instructions.
 
 A food-reference version update can ask you to rebuild the active week. Existing history is retained; the update does not rewrite old meal quantities.
+
+
+## Free and Plus in development
+
+The updated development build includes Free daily personalized planning, the complete recipe collection and taste learning. SavorLoop Plus is designed for seven-day plans with consolidated groceries and prep. Production subscriptions are not yet available; this is not a release or purchase announcement.
+
+Saved plans remain on your iPhone when Plus ends, including their groceries, prep, checklists and safe meal swaps. Open Saved plans from Plan to view history; reopening still checks current restrictions and the food reference version. Older or newly excluded plans may remain historical records rather than active recommendations. Export keeps your saved history.
+
+Original weekly access is checked through Apple's verified app purchase record. Use Restore purchases on the Plus screen after reinstalling with the same Apple account. Local personal data remains excluded from backups and is not restored by purchase restoration. Deleting data does not cancel Apple subscriptions.
+
+Explore recipes from Plan to browse the collection with Free. Browsing includes recipes that may conflict with your preferences, restrictions or equipment; review ingredient labels and instructions before cooking. Personalized planning performs the eligibility checks.

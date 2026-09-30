@@ -24,7 +24,7 @@ These are descriptions of the development implementation. They are not a certifi
 | Personal data | Local storage; no account-based cross-device sync or general import/restore interface |
 | On-device generation | Subject to availability and evaluation requirements; deterministic planning is the fallback |
 | Timers | Do not assume multiple concurrent timers or guaranteed background alarm delivery |
-| Purchases | Disabled in the documented development build; initial launch planned free in the United States |
+| Purchases | Production purchases disabled; Free daily planning and the Plus weekly-plan structure are implemented in development, with no subscription availability or release announced |
 | Accessibility | Further device acceptance remains necessary; reports are welcome |
 | Support | Public GitHub tickets and private security reporting; no private general-support inbox or response-time guarantee |
 
