@@ -59,7 +59,7 @@ A food-reference version update can ask you to rebuild the active week. Existing
 
 ## Free and Plus in development
 
-The updated development build includes Free daily personalized planning, the complete recipe collection and taste learning. SavorLoop Plus is designed for seven-day plans with consolidated groceries and prep. Production subscriptions are not yet available; this is not a release or purchase announcement.
+The updated development build includes Free daily personalized planning, the complete recipe collection and taste learning. SavorLoop Plus is designed for seven-day plans with consolidated groceries and prep. The next candidate enables Apple subscription offers when available. Subscriptions still require Apple approval and release; this is not a release or purchase announcement. If offers cannot load, Free daily planning remains available.
 
 Saved plans remain on your iPhone when Plus ends, including their groceries, prep, checklists and safe meal swaps. Open Saved plans from Plan to view history; reopening still checks current restrictions and the food reference version. Older or newly excluded plans may remain historical records rather than active recommendations. Export keeps your saved history.
 
